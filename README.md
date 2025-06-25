@@ -1,3 +1,4 @@
+# Новіцький КП-41мп
 # Renju
 
 This project implements a Python program to determine the winner of a **Renju** game based on a given board configuration.
